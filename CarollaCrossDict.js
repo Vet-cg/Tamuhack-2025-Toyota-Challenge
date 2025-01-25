@@ -1,6 +1,6 @@
 const CarollaCrossL_dict = {
     price: "$24,035",
-    milage: "31/33 MPG",
+    milage: "31/33",
     seats: "5",
     features: [
       "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -20,7 +20,7 @@ const CarollaCrossL_dict = {
   }
 const CarollaCrossLE_dict = {
   price: "$26,365",
-  milage: "31/33 MPG",
+  milage: "31/33",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -41,7 +41,7 @@ const CarollaCrossLE_dict = {
 
 const CarollaCrossXLE_dict = {
   price: "$28,260",
-  milage: "31/33 MPG",
+  milage: "31/33",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -61,7 +61,7 @@ const CarollaCrossXLE_dict = {
 }
 const CarollaCrossHybridS_dict = {
   price: "$28,395",
-  milage: "45/38 MPG",
+  milage: "45/38",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -80,7 +80,7 @@ const CarollaCrossHybridS_dict = {
 }
 const CarollaCrossHybridSE_dict = {
   price: "$29,715",
-  milage: "45/38 MPG",
+  milage: "45/38",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -99,7 +99,7 @@ const CarollaCrossHybridSE_dict = {
 }
 const CarollaCrossHybridNightshade_dict = {
   price: "$30,640",
-  milage: "45/38 MPG",
+  milage: "45/38",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
@@ -118,7 +118,7 @@ const CarollaCrossHybridNightshade_dict = {
 }
 const CarollaCrossHybridXSE_dict = {
   price: "$31,580",
-  milage: "45/38 MPG",
+  milage: "45/38",
   seats: "5",
   features: [
     "Toyota Safety Sense™ 3.0 (TSS 3.0)",
