@@ -215,3 +215,51 @@ const Rav4HybridLimited_dict = {
     Performance: "2.5L hybrid engine, 219 net combined horsepower",
     targetAudience: "The Toyota RAV4 Hybrid Limited targets eco-conscious buyers seeking a luxury crossover with advanced hybrid efficiency, premium features, and a high level of comfort and technology."
 }
+const Rav4PlugInHybridSE_dict = {
+    price: "$43,865",
+    milage: "38/36",
+    seats: "5",
+    features: [
+        "8-in. multimedia display",
+        "18-in. 5-spoke painted and machined sport alloy wheels",
+        "Toyota Safety Sense™ 2.5+ (TSS 2.5+)",
+        "LED projector low- and high-beam headlights with LED DRL accent lights and turn signals",
+        "Electronic On-Demand All-Wheel Drive (AWD)",
+        "7-in. digital Multi-Information Display (MID)",
+    ],
+    Drivetrain: [
+        "2.5L 4-Cyl. plug-in hybrid",
+        "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    Performance: [
+        "2.5L 4-Cyl. plug-in hybrid, 302 net combined hp",
+        "Estimated all-electric driving range of 42 miles",
+        "5.7-second 0-60 time"
+    ],
+    targetAudience: "The Toyota RAV4 Plug-in Hybrid SE targets environmentally-conscious drivers seeking a performance-oriented, fuel-efficient SUV with the ability to drive on electric power alone and advanced tech features."
+}
+const Rav4PlugInHybridXSE_dict = {
+    price: "$47,735",
+    milage: "38/36",
+    seats: "5",
+    features: [
+        "8-in. multimedia display",
+        "18-in. 5-spoke painted and machined sport alloy wheels",
+        "Toyota Safety Sense™ 2.5+ (TSS 2.5+)",
+        "LED projector low- and high-beam headlights with LED DRL accent lights and turn signals",
+        "Electronic On-Demand All-Wheel Drive (AWD)",
+        "7-in. digital Multi-Information Display (MID)",
+    ],
+    Drivetrain: [
+        "2.5L 4-Cyl. plug-in hybrid",
+        "Electronically controlled Continuously Variable Transmission (ECVT)",
+        "Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    Performance: [
+        "2.5L 4-Cyl. plug-in hybrid, 302 net combined hp",
+        "Estimated all-electric driving range of 42 miles",
+        "5.7-second 0-60 time"
+    ],
+    targetAudience: "The Toyota RAV4 Plug-in Hybrid XSE appeals to eco-conscious, performance-driven drivers who want a stylish, tech-equipped SUV with the added benefit of electric-only driving and enhanced hybrid efficiency."
+}
