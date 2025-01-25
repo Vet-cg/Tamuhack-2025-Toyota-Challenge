@@ -15,14 +15,29 @@
 </header>
 
 <main class="quiz-container">
-    <div class="quiz-intro">
+    <div class="quiz-intro" id="intro">
         <p>Take our short quiz to discover the perfect Toyota vehicle for your needs.</p>
-        <button class="start-btn">Start Quiz</button>
+        <button class="start-btn" id="startBtn">Start Quiz</button>
+    </div>
+    <div class="quiz-question hide" id="question1">
+        <h2>Question 1</h2>
+        <p>What type of vehicle are you looking for?</p>
+        <ul>
+            <li><button class="quiz-option" data-answer="sedan">Sedan</button></li>
+            <li><button class="quiz-option" data-answer="suv">SUV</button></li>
+            <li><button class="quiz-option" data-answer="truck">Truck</button></li>
+            <li><button class="quiz-option" data-answer="hybrid">Hybrid</button></li>
+        </ul>
+    </div>
+    <div class="quiz-controls hide">
+        <button id="prev-btn" class="control-btn" disabled>Previous</button>
+        <button id="next-btn" class="control-btn">Next</button>
     </div>
 </main>
 
 <footer class="footer">
-    <p>&copy; 2025 Toyota Quiz. All rights reserved.</p>
+    <p>Built by Hayden Freeman, Carson Phillips, and Noah Zhou</p>
 </footer>
+<script src="quiz.js" type="module"></script>
 </body>
 </html>

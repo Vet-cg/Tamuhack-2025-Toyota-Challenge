@@ -19,6 +19,9 @@ body {
     color: white;
     text-align: center;
     padding: 1rem 0;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #EB0A1E;
 }
 
 .header .logo img {
@@ -44,7 +47,7 @@ body {
 
 /* Buttons */
 .start-btn {
-    background-color: #f00000; /* Toyota Red */
+    background-color: #EB0A1E; /* Toyota Red */
     color: white;
     border: none;
     padding: 1rem 2rem;
@@ -55,7 +58,7 @@ body {
 }
 
 .start-btn:hover {
-    background-color: #c00000; /* Darker Toyota Red */
+    background-color: #C00000; /* Darker Toyota Red */
 }
 
 /* Footer */
@@ -69,4 +72,11 @@ body {
     padding: 1rem 0;
     background-color: #222222;
     color: white;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #EB0A1E;
+}
+
+.hide {
+    display: none;
 }
