@@ -7,7 +7,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7955/exteriorcolor/0218/interiorcolor/LC25/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "basic"
+    "trim" : "basic",
+    "image": "images/tacoma-sr.webp"
   },
   {
     "model": "Toyota Tacoma SR5",
@@ -17,7 +18,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7126/exteriorcolor/01J9/interiorcolor/FB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "basic"
+    "trim" : "basic",
+    "image": "images/tacome-sr5.webp"
   },
   {
     "model": "Toyota Tacoma TRD PreRunner",
@@ -27,7 +29,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7166/exteriorcolor/01L7/interiorcolor/FC11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trd-prerunner.webp"
   },
   {
     "model": "Toyota TRD Sport",
@@ -37,7 +40,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7148/exteriorcolor/08W7/interiorcolor/FE11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "sport"
+    "trim" : "sport",
+    "image": "images/tacoma-trd-sport.webp"
   },
   {
     "model": "Toyota TRD Off-Road",
@@ -47,7 +51,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7545/exteriorcolor/04Z0/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trd-off-road.webp"
   },
   {
     "model": "Toyota Tacoma Limited",
@@ -57,7 +62,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7582/exteriorcolor/03U5/interiorcolor/EB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tacoma-limited.webp"
   },
   {
     "model": "Toyota Tacoma TRD Sport i-FORCE MAX",
@@ -67,7 +73,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7530/exteriorcolor/0202/interiorcolor/FE12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trd-sport-i-forcemax.webp"
   },
   {
     "model": "Toyota Tacoma TRD Off-Road i-FORCE MAX",
@@ -77,7 +84,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7532/exteriorcolor/01J9/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trd-off-road-i-forcemax.webp"
   },
   {
     "model": "Toyota Tacoma TrailHunter",
@@ -87,27 +95,30 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7536/exteriorcolor/06X1/interiorcolor/EC60/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trailhinter.webp"
   },
   {
-    "model": "Toyota TRD Pro",
+    "model": "Toyota Tacoma TRD Pro",
     "price": 63735,
     "mileage": 22,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7598/exteriorcolor/0M16/interiorcolor/ED22/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tacoma-trd-pro.webp"
   },
   {
-    "model": "Toyota Limited i-FORCE MAX",
+    "model": "Toyota Tacoma Limited i-FORCE MAX",
     "price": 55880,
     "mileage": 23,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tacoma/model/7534/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tacoma-limited-i-forcemax.webp"
   },
   {
     "model": "Toyota Tundra SR",
@@ -117,7 +128,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8242/exteriorcolor/01J9/interiorcolor/FA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "basic"
+    "trim" : "basic",
+    "image": "images/tundra-sr.webp"
   },
   {
     "model": "Toyota Tundra SR5",
@@ -127,7 +139,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8241/exteriorcolor/0040/interiorcolor/FB13/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tundra-sr5.webp"
   },
   {
     "model": "Toyota Tundra Limited",
@@ -137,17 +150,19 @@
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8272/exteriorcolor/03U5/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-limited.webp"
   },
   {
-    "model": "Toyota Limited i-FORCE MAX",
+    "model": "Toyota Tundra Limited i-FORCE MAX",
     "price": 58005,
     "mileage": 20,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8401/exteriorcolor/06X3/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-limited-i-forcemax.webp"
   },
   {
     "model": "Toyota Tundra Platinum",
@@ -157,47 +172,52 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8275/exteriorcolor/08X8/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-platinum.webp"
   },
   {
-    "model": "Toyota 1794 Edition",
+    "model": "Toyota Tundra 1794 Edition",
     "price": 64360,
     "mileage": 18,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8276/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "gas",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-1794-edition.webp"
   },
   {
-    "model": "Toyota Platinum i-FORCE MAX",
+    "model": "Toyota Tundra Platinum i-FORCE MAX",
     "price": 67585,
     "mileage": 20,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8402/exteriorcolor/0218/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-platinum-i-forcemax.webp"
   },
   {
-    "model": "Toyota 1794 Edition i-FORCE MAX",
+    "model": "Toyota Tundra 1794 Edition i-FORCE MAX",
     "price": 68285,
     "mileage": 20,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8403/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-1794-edition-i-forcemax.webp"
   },
   {
-    "model": "Toyota TRD Pro",
+    "model": "Toyota Tundra TRD Pro",
     "price": 72510,
     "mileage": 18,
     "seats": 5,
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "outdoor"
+    "trim" : "outdoor",
+    "image": "images/tundra-trd-pro.webp"
   },
   {
     "model": "Toyota Tundra Capstone",
@@ -207,7 +227,8 @@
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "truck",
     "engine" : "hybrid",
-    "trim" : "luxary"
+    "trim" : "luxary",
+    "image": "images/tundra-capstone.webp"
   }, 
   { 
       "model": "Toyota Corolla Cross L",
@@ -217,7 +238,8 @@
       "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6301/exteriorcolor/0089/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
       "type": "suv",
       "engine" : "gas",
-      "trim" : "basic"
+      "trim" : "basic",
+      "image": "images/corolla-cross-l.webp"
     },
     {
       "model": "Toyota Corolla Cross LE",
@@ -227,7 +249,8 @@
       "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6303/exteriorcolor/06X5/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
       "type": "suv",
       "engine" : "gas",
-      "trim" : "luxary"
+      "trim" : "luxary",
+      "image": "images/corolla-cross-le.webp"
     },
     {
         "model": "Toyota Corolla Cross XLE",
@@ -237,7 +260,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6305/exteriorcolor/01K3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-cross-xle.webp"
     },
     {
         "model": "Toyota Corolla Cross Hybrid S",
@@ -247,7 +271,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6312/exteriorcolor/0D10/interiorcolor/FB11/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-cross-hybrid-s.webp"   
     },
     {
         "model": "Toyota Corolla Cross Hybrid SE",
@@ -257,7 +282,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6314/exteriorcolor/0D15/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-cross-hybrid-se.webp"
     },
     {
         "model": "Toyota Corolla Cross Hybrid Nightshade",
@@ -267,7 +293,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6315/exteriorcolor/0D23/interiorcolor/FB22/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-cross-hybrid-nightshade.webp"
     },
     {
         "model": "Toyota Corolla Cross Hybrid XSE",
@@ -277,7 +304,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6316/exteriorcolor/0D25/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-cross-hybrid-xse.webp"
     },
     {
         "model": "Toyota Rav4 LE",
@@ -287,7 +315,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4430/exteriorcolor/01D6/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-le.webp"
     },
     {
         "model": "Toyota Rav4 XLE",
@@ -297,7 +326,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4440/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-xle.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid LE",
@@ -307,17 +337,19 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4435/exteriorcolor/01D6/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-hybrid-le.webp"
     },
     {
-        "model": "Toyota Rav4 Premium",
+        "model": "Toyota Rav4 XLE Premium",
         "price": 33250,
         "mileage": 27,
         "seats": 5,
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4477/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-xle-premium.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid XLE",
@@ -327,7 +359,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4444/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-hybrid-xle.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid SE",
@@ -337,7 +370,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4524/exteriorcolor/01G3/interiorcolor/FC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/rav4-hybrid-se.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid Woodland Edition",
@@ -347,7 +381,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4437/exteriorcolor/0M02/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/rav4-hybrid-woodland-edition.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid XLE Premium",
@@ -357,7 +392,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4528/exteriorcolor/0218/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-hybrid-xle-premium.webp"
     },
     {
         "model": "Toyota Rav4 Limited",
@@ -367,7 +403,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4450/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-limited.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid XSE",
@@ -377,7 +414,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4530/exteriorcolor/02VV/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/rav4-hybrid-xse.webp"
     },
     {
         "model": "Toyota Rav4 Hybrid Limited",
@@ -387,7 +425,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4534/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/rav4-hybrid-limited.webp"
     },
     {
         "model": "Toyota Rav4 Plug-in Hybrid SE",
@@ -397,7 +436,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4pluginhybrid/model/4544/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/rav4-hybrid-se.webp"
     },
     {
         "model": "Toyota Rav4 Plug-in Hybrid XSE",
@@ -407,7 +447,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4pluginhybrid/model/4550/exteriorcolor/02SC/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/rav4-hybrid-xse.webp"
     },
     {
         "model": "Toyota Venza Hybrid LE",
@@ -417,7 +458,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2810/exteriorcolor/0202/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/venza-le.webp"
     },
     {
         "model": "Toyota Venza Hybrid XLE",
@@ -427,7 +469,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2820/exteriorcolor/0089/interiorcolor/EC10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/venza-xle.webp"
     },
     {
         "model": "Toyota Venza Hybrid Nightshade",
@@ -437,7 +480,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2825/exteriorcolor/03T3/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/venza-nightshade-edition.webp"
     },
     {
         "model": "Toyota Venza Hybrid Limited",
@@ -447,7 +491,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2830/exteriorcolor/01K9/interiorcolor/EA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/venza-limited.webp"
     },
     {
         "model": "Toyota Highlander LE",
@@ -457,7 +502,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6946/exteriorcolor/01G3/interiorcolor/FB10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-le.webp"
     },
     {
         "model": "Toyota Highlander XLE",
@@ -467,7 +513,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6951/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-xle.webp"
     },
     {
         "model": "Toyota Highlander Hybrid XLE",
@@ -477,17 +524,19 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6965/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-hybrid-xle.webp"
     },
     {
-        "model": "Toyota Highlander Hybrid XSE",
+        "model": "Toyota Highlander XSE",
         "price": 46340,
         "mileage": 21,
         "seats": 7,
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6959/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/highlander-xse.webp"
     },
     {
         "model": "Toyota Highlander Limited",
@@ -497,7 +546,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6954/exteriorcolor/06X5/interiorcolor/LB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-limited.webp"
     },
     {
         "model": "Toyota Highlander Hybrid XLE Nightshade",
@@ -507,7 +557,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6989/exteriorcolor/01H5/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-hybrid-xle-nighshade.webp"
     },
     {
         "model": "Toyota Highlander Hybrid Limited",
@@ -517,7 +568,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6966/exteriorcolor/06X5/interiorcolor/LB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-hybrid-limited.webp"
     },
     {
         "model": "Toyota Highlander Platinum",
@@ -527,7 +579,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6957/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-platinum.webp"
     },
     {
         "model": "Toyota Highlander Hybrid Limited 25th Edition",
@@ -537,7 +590,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6982/exteriorcolor/01L5/interiorcolor/LD42/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-hybrid-limited-25th-edition.webp"
     },
     {
         "model": "Toyota Highlander Hybrid Platinum",
@@ -547,7 +601,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6967/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/highlander-hybrid-platinum.webp"
     },
     {
         "model": "Toyota 4Runner SR5",
@@ -557,7 +612,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8642/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/4runner-sr5.webp"
     },
     {
         "model": "Toyota 4Runner TRD Sport",
@@ -567,7 +623,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8643/exteriorcolor/03U5/interiorcolor/FB12/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/4runner-trd-sport.webp"
     },
     {
         "model": "Toyota 4Runner TRD Off-Road",
@@ -577,7 +634,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8670/exteriorcolor/06X7/interiorcolor/FB12/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/4runner-trd-off-road.webp"
     },
     {
         "model": "Toyota 4Runner TRD Off-Road i-FORCE MAX",
@@ -587,7 +645,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8628/exteriorcolor/0202/interiorcolor/FB11/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/4runner-trd-off-road-i-forcemax.webp"
     },
     {
         "model": "Toyota 4Runner TRD Sport Premium",
@@ -597,7 +656,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8644/exteriorcolor/0089/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/4runner-trd-sport-premium.webp"
     },
     {
         "model": "Toyota 4Runner TRD Off-Road Premium",
@@ -607,7 +667,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8672/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/4runner-trd-off-road-premium.webp"
     },
     {
         "model": "Toyota 4Runner Limited",
@@ -617,7 +678,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8648/exteriorcolor/08X0/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/4runner-limited.webp"
     },
     {
         "model": "Toyota 4Runner TRD Off-Road Premium i-FORCE MAX",
@@ -627,7 +689,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8630/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/4runner-trd-off-road-premium-i-forcemax.webp"
     },
     {
         "model": "Toyota 4Runner Limited i-FORCE MAX",
@@ -637,7 +700,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8632/exteriorcolor/03U5/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/4runner-limited-i-forcemax.webp"
     },
     {
         "model": "Toyota 4Runner Platinum",
@@ -647,7 +711,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8638/exteriorcolor/01L7/interiorcolor/LB81/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/4runner-platinum.webp"
     },
     {
         "model": "Toyota 4Runner TRD Pro",
@@ -657,7 +722,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8634/exteriorcolor/04Z2/interiorcolor/EC22/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/4runner-trd-pro.webp"
     },
     {
         "model": "Toyota 4Runner Trailhunter",
@@ -667,7 +733,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8636/exteriorcolor/06X7/interiorcolor/EB63/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/4runner-trailhunter.webp"
     },
     {
         "model": "Toyota bZ4X XLE",
@@ -677,7 +744,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2870/exteriorcolor/03U5/interiorcolor/EB20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "electric",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/bz4x-xle.webp"
     },
     {
         "model": "Toyota bZ4X Nightshade",
@@ -687,7 +755,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2884/exteriorcolor/02VP/interiorcolor/EC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "electric",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/bz4x-nightshade.webp"
     },
     {
         "model": "Toyota bZ4X Limited",
@@ -697,7 +766,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2880/exteriorcolor/02WC/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "electric",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/bz4x-limited.webp"
     },
     {
         "model": "Toyota Grand Highlander XLE",
@@ -707,7 +777,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6702/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-xle.webp"
     },
     {
         "model": "Toyota Grand Highlander Hybrid XLE",
@@ -717,7 +788,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6716/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-hybrid-xle.webp"
     },
     {
         "model": "Toyota Grand Highlander Limited",
@@ -727,7 +799,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6704/exteriorcolor/01L5/interiorcolor/LC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-limited.webp"
     },
     {
         "model": "Toyota Grand Highlander Hybrid Limited",
@@ -737,7 +810,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6724/exteriorcolor/03T3/interiorcolor/LC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-hybrid-limited.webp"
     },
     {
         "model": "Toyota Grand Highlander Hybrid Nightshade",
@@ -747,7 +821,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6733/exteriorcolor/01H5/interiorcolor/LD20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-hybrid-nightshade.webp"
     },
     {
         "model": "Toyota Grand Highlander Platinum",
@@ -757,7 +832,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6712/exteriorcolor/0089/interiorcolor/LB10/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-platinum.webp"
     },
     {
         "model": "Toyota Grand Highlander Hybrid Max Limited",
@@ -767,7 +843,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6730/exteriorcolor/01L5/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-hybrid-max-limited.webp"
     },
     {
         "model": "Toyota Grand Highlander Hybrid Max Platinum",
@@ -777,7 +854,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6732/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/grand-highlander-hybrid-max-platinum.webp"
     },
     {
         "model": "Toyota Crown Signia XLE",
@@ -787,7 +865,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrownsignia/model/4040/exteriorcolor/04Y6/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-signia-xle.webp"
     },
     {
         "model": "Toyota Crown Signia Limited",
@@ -797,7 +876,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrownsignia/model/4041/exteriorcolor/01L6/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-signia-limited.webp"
     },
     {
         "model": "Toyota Land Cruiser 1958",
@@ -807,7 +887,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/landcruiser/model/6165/exteriorcolor/04V8/interiorcolor/FB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/land-cruiser-1958.webp"
     },
     {
         "model": "Toyota Land Cruiser",
@@ -817,7 +898,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/landcruiser/model/6167/exteriorcolor/02ZD/interiorcolor/EB40/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/land-cruiser.webp"
     },
     {
         "model": "Toyota Sequoia SR5",
@@ -827,7 +909,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7946/exteriorcolor/01J9/interiorcolor/FB13/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/sequoia-sr5.webp"
     },
     {
         "model": "Toyota Sequoia Limited",
@@ -837,7 +920,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7948/exteriorcolor/03U5/interiorcolor/EA21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sequoia-limited.webp"
     },
     {
         "model": "Toyota Sequoia Platinum",
@@ -847,7 +931,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7951/exteriorcolor/08X8/interiorcolor/LA21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sequoia-platinum.webp"
     },
     {
         "model": "Toyota Sequoia TRD Pr",
@@ -857,7 +942,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7953/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/sequoia-trd-pro.webp"
     },
     {
         "model": "Toyota Sequoia 1794 Edition",
@@ -867,7 +953,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7957/exteriorcolor/0089/interiorcolor/LB44/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sequoia-1794-edition.webp"
     },
     {
         "model": "Toyota Sequoia Capstone",
@@ -877,7 +964,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7955/exteriorcolor/0218/interiorcolor/LC25/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
         "type": "suv",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sequoia-capstone.webp"
     },
     {
         "model": "Toyota Corolla LE",
@@ -887,7 +975,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1852/exteriorcolor/0089/interiorcolor/FB10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-le.webp"
       },
       {
         "model": "Toyota Hybrid Corolla LE",
@@ -897,7 +986,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1882/exteriorcolor/0040/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-hybrid-le.webp"
       },
       {
         "model": "Toyota Corolla SE",
@@ -907,7 +997,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1864/exteriorcolor/03T3/interiorcolor/FC26/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-se.webp"
       },
       {
         "model": "Toyota Corolla Hybrid SE",
@@ -917,7 +1008,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1886/exteriorcolor/08X8/interiorcolor/FC23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-hybrid-se.webp"
       },
       {
         "model": "Toyota Corolla FX",
@@ -927,7 +1019,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1870/exteriorcolor/02YE/interiorcolor/FC24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-fx.webp"
       },
       {
         "model": "Toyota Corolla XSE",
@@ -937,7 +1030,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1866/exteriorcolor/01K3/interiorcolor/EB26/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-xse.webp"
       },
       {
         "model": "Toyota Corolla Hybrid XLE",
@@ -947,7 +1041,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1892/exteriorcolor/01F7/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-hybrid-xle.webp"
       },
       {
         "model": "Toyota Corolla Hatchback SE",
@@ -957,7 +1052,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6272/exteriorcolor/0089/interiorcolor/FA10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-hatchback-se.webp"
       },
       {
         "model": "Toyota Corolla Hatchback Nightshade",
@@ -967,7 +1063,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6276/exteriorcolor/02PS/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/corolla-hatchback-nightshade.webp"
       },
       {
         "model": "Toyota Corolla Hatchback XSE",
@@ -977,7 +1074,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6274/exteriorcolor/08W7/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/corolla-hatchback-xse.webp"
       },
       {
         "model": "Toyota Prius LE",
@@ -987,7 +1085,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1223/exteriorcolor/0089/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-le.webp"
       },
       {
         "model": "Toyota Prius LE AWD",
@@ -997,7 +1096,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1263/exteriorcolor/0218/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-le-awd.webp"
       },
       {
         "model": "Toyota Prius XLE",
@@ -1007,7 +1107,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1225/exteriorcolor/01M2/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-xle.webp"
       },
       {
         "model": "Toyota Prius Nightshade",
@@ -1017,7 +1118,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1216/exteriorcolor/05C5/interiorcolor/EA24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-nightshade-edition.webp"
       },
       {
         "model": "Toyota Prius XLE AWD",
@@ -1027,7 +1129,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1265/exteriorcolor/03U5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-xle-awd.webp"
       },
       {
         "model": "Toyota Prius Nighshade AWD",
@@ -1037,7 +1140,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1266/exteriorcolor/0089/interiorcolor/EA24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-nightshade-edition-awd.webp"
       },
       {
         "model": "Toyota Prius Limited",
@@ -1047,7 +1151,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1227/exteriorcolor/08Q4/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-limited.webp"
       },
       {
         "model": "Toyota Prius Limited AWD",
@@ -1057,7 +1162,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1268/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/prius-limited-awd.webp"
       },
       {
         "model": "Toyota Prius Plug-in Hybrid SE",
@@ -1067,7 +1173,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1235/exteriorcolor/0089/interiorcolor/FA23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-plug-in-se.webp"
       },
       {
         "model": "Toyota Prius Plug-in Hybrid XSE",
@@ -1077,7 +1184,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1237/exteriorcolor/03U5/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-plug-in-xse.webp"
       },
       {
         "model": "Toyota Prius Plug-in Hybrid XSE Premium",
@@ -1087,7 +1195,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1239/exteriorcolor/0218/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-plug-in-xse-premium.webp"
       },
       {
         "model": "Toyota Camry LE",
@@ -1097,7 +1206,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2559/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/camry-le.webp"
       },
       {
         "model": "Toyota Camry SE",
@@ -1107,7 +1217,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2561/exteriorcolor/03U5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/camry-se.webp"
       },
       {
         "model": "Toyota Camry XLE",
@@ -1117,7 +1228,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2560/exteriorcolor/0795/interiorcolor/LA10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/camry-xle.webp"
       },
       {
         "model": "Toyota Camry XSE",
@@ -1127,7 +1239,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2557/exteriorcolor/02YJ/interiorcolor/LB30/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/camry-xse.webp"
       },
       {
         "model": "Toyota Crown XLE",
@@ -1137,7 +1250,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4015/exteriorcolor/0202/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-xle.webp"
       },
       {
         "model": "Toyota Crown Limited",
@@ -1147,7 +1261,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4020/exteriorcolor/01L5/interiorcolor/LA00/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-limited.webp"
       },
       {
         "model": "Toyota Crown Nightshade",
@@ -1157,7 +1272,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4025/exteriorcolor/01L6/interiorcolor/LB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-nightshade.webp"
       },
       {
         "model": "Toyota Crown Platinum",
@@ -1167,7 +1283,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4030/exteriorcolor/02YZ/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/crown-platinum.webp"
       },
       {
         "model": "Toyota GR86",
@@ -1177,7 +1294,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6253/exteriorcolor/0K1X/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr86.webp"
       },
       {
         "model": "Toyota GR86 Premium",
@@ -1187,7 +1305,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6255/exteriorcolor/0DCK/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr86-premium.webp"
       },
       {
         "model": "Toyota GR86 Hakone Edition",
@@ -1197,7 +1316,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6259/exteriorcolor/0DMG/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr86-hakone-edition.webp"
       },
       {
         "model": "Toyota GR Corolla Core",
@@ -1207,7 +1327,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6281/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr-corolla-core.webp"
       },
       {
         "model": "Toyota GR Corolla Premium",
@@ -1217,7 +1338,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6287/exteriorcolor/01L5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr-corolla-premium.webp"
       },
       {
         "model": "Toyota GR Corolla Premium Plus",
@@ -1227,7 +1349,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6289/exteriorcolor/03U5/interiorcolor/EA30/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr-corolla-premium-plus.webp"
       },
       {
         "model": "Toyota GR Supra 3.0",
@@ -1237,7 +1360,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grsupra/model/2372/exteriorcolor/0D01/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr-supra-3.0.webp"
       },
       {
         "model": "Toyota GR Supra 3.0 Premium",
@@ -1247,7 +1371,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grsupra/model/2374/exteriorcolor/0D13/interiorcolor/LB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "gas",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/gr-supra-3.0-premium.webp"
       },
       {
         "model": "Toyota Sienna LE",
@@ -1257,7 +1382,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5402/exteriorcolor/0040/interiorcolor/FA15/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sienna-le.webp"
       },
       {
         "model": "Toyota Sienna XLE",
@@ -1267,7 +1393,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5408/exteriorcolor/08X8/interiorcolor/EA15/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sienna-xle.webp"
       },
       {
         "model": "Toyota Sienna XSE",
@@ -1277,7 +1404,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5410/exteriorcolor/03T3/interiorcolor/EB16/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/sienna-xse.webp"
       },
       {
         "model": "Toyota Sienna Limited",
@@ -1287,7 +1415,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5414/exteriorcolor/06X5/interiorcolor/LA25/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sienna-limited.webp"
       },
       {
         "model": "Toyota Sienna Woodland Edition",
@@ -1297,7 +1426,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5409/exteriorcolor/01H5/interiorcolor/EB22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "outdoor"
+        "trim" : "outdoor",
+        "image": "images/sienna-woodland-edition.webp"
       },
       {
         "model": "Toyota Sienna Platinum",
@@ -1307,7 +1437,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5418/exteriorcolor/01G3/interiorcolor/LB42/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "minivan",
         "engine" : "hybrid",
-        "trim" : "luxary"
+        "trim" : "luxary",
+        "image": "images/sienna-platinum.webp"
       },
       {
         "model": "Toyota Prius Prime SE",
@@ -1317,7 +1448,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1235/exteriorcolor/0089/interiorcolor/FA23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-prime-se.webp"
       },
       {
         "model": "Toyota Prius Prime XSE",
@@ -1327,7 +1459,8 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1237/exteriorcolor/03U5/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-prime-xse.webp"
       },
       {
         "model": "Toyota Prius Prime XSE Premium",
@@ -1337,6 +1470,7 @@
         "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1239/exteriorcolor/0218/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
         "type": "car",
         "engine" : "hybrid",
-        "trim" : "sport"
+        "trim" : "sport",
+        "image": "images/prius-prime-xse-premium.webp"
       }
 ]
