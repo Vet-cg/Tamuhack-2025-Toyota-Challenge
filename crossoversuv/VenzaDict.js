@@ -24,7 +24,7 @@ const VenzaHybridLE_dict = {
     targetAudience: "The Toyota Venza LE targets buyers seeking a sleek, hybrid-powered crossover with a focus on comfort, efficiency, and advanced features for urban and suburban lifestyles."
 }
 const VenzaHybridXLE_dict = {
-    price: "$39.280",
+    price: "$39,280",
     milage: "40/37",
     seats: "5",
     features: [

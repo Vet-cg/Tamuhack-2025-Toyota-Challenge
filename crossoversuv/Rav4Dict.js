@@ -20,7 +20,7 @@ const Rav4LE_dict = {
     ],
     targetAudience: "The Toyota RAV4 LE targets practical, value-driven drivers looking for a reliable, fuel-efficient crossover with essential features and a versatile design for everyday use."
   }
-const Rav4XHybridXLE_dict = {
+const Rav4XLE_dict = {
     price: "$30,360",
     milage: "27/35",
     seats: "5",
