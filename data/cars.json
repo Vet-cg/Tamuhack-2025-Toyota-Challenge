@@ -313,7 +313,7 @@
     "model": "Toyota GR86",
     "price": 35270,
     "mileage": 20,
-    "seats": ,
+    "seats": 2,
     "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6259/exteriorcolor/0DMG/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
     "type": "car",
     "engine" : "gas",
