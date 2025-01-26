@@ -878,5 +878,465 @@
         "type": "suv",
         "engine" : "hybrid",
         "trim" : "luxary"
-    }
+    },
+    {
+        "model": "Toyota Corolla LE",
+        "price": 22325,
+        "mileage": 32,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1852/exteriorcolor/0089/interiorcolor/FB10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Hybrid Corolla LE",
+        "price": 23825,
+        "mileage": 53,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1882/exteriorcolor/0040/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Corolla SE",
+        "price": 24765,
+        "mileage": 31,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1864/exteriorcolor/03T3/interiorcolor/FC26/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Corolla Hybrid SE",
+        "price": 26265,
+        "mileage": 50,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1886/exteriorcolor/08X8/interiorcolor/FC23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Corolla FX",
+        "price": 26650,
+        "mileage": 31,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1870/exteriorcolor/02YE/interiorcolor/FC24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Corolla XSE",
+        "price": 28040,
+        "mileage": 31,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1866/exteriorcolor/01K3/interiorcolor/EB26/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Corolla Hybrid XLE",
+        "price": 28190,
+        "mileage": 53,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corolla/model/1892/exteriorcolor/01F7/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Corolla Hatchback SE",
+        "price": 23780,
+        "mileage": 32,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6272/exteriorcolor/0089/interiorcolor/FA10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Corolla Hatchback Nightshade",
+        "price": 24780,
+        "mileage": 32,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6276/exteriorcolor/02PS/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Corolla Hatchback XSE",
+        "price": 27080,
+        "mileage": 30,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollahatchback/model/6274/exteriorcolor/08W7/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Prius LE",
+        "price": 28350,
+        "mileage": 57,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1223/exteriorcolor/0089/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius LE AWD",
+        "price": 29750,
+        "mileage": 53,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1263/exteriorcolor/0218/interiorcolor/FB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius XLE",
+        "price": 31794,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1225/exteriorcolor/01M2/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Nightshade",
+        "price": 32485,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1216/exteriorcolor/05C5/interiorcolor/EA24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius XLE AWD",
+        "price": 33195,
+        "mileage": 49,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1265/exteriorcolor/03U5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Nighshade AWD",
+        "price": 33895,
+        "mileage": 49,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1266/exteriorcolor/0089/interiorcolor/EA24/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Limited",
+        "price": 35365,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1227/exteriorcolor/08Q4/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Limited AWD",
+        "price": 35365,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/prius/model/1268/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Plug-in Hybrid SE",
+        "price": 33375,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1235/exteriorcolor/0089/interiorcolor/FA23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Prius Plug-in Hybrid XSE",
+        "price": 36625,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1237/exteriorcolor/03U5/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Prius Plug-in Hybrid XSE Premium",
+        "price": 40070,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/priuspluginhybrid/model/1239/exteriorcolor/0218/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Camry LE",
+        "price": 28700,
+        "mileage": 53,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2559/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Camry SE",
+        "price": 31000,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2561/exteriorcolor/03U5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Camry XLE",
+        "price": 33700,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2560/exteriorcolor/0795/interiorcolor/LA10/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Camry XSE",
+        "price": 34900,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/camry/model/2557/exteriorcolor/02YJ/interiorcolor/LB30/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Crown XLE",
+        "price": 41440,
+        "mileage": 42,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4015/exteriorcolor/0202/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Crown Limited",
+        "price": 45950,
+        "mileage": 42,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4020/exteriorcolor/01L5/interiorcolor/LA00/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Crown Nightshade",
+        "price": 48765,
+        "mileage": 42,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4025/exteriorcolor/01L6/interiorcolor/LB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Crown Platinum",
+        "price": 54990,
+        "mileage": 29,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrown/model/4030/exteriorcolor/02YZ/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota GR86",
+        "price": 30000,
+        "mileage": 20,
+        "seats": 4,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6253/exteriorcolor/0K1X/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR86 Premium",
+        "price": 32600,
+        "mileage": 20,
+        "seats": 4,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6255/exteriorcolor/0DCK/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR86 Hakone Edition",
+        "price": 35270,
+        "mileage": 20,
+        "seats": 4,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/gr86/model/6259/exteriorcolor/0DMG/interiorcolor/AM20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR Corolla Core",
+        "price": 38860,
+        "mileage": 21,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6281/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR Corolla Premium",
+        "price": 41440,
+        "mileage": 21,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6287/exteriorcolor/01L5/interiorcolor/EA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR Corolla Premium Plus",
+        "price": 45515,
+        "mileage": 21,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grcorolla/model/6289/exteriorcolor/03U5/interiorcolor/EA30/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR Supra 3.0",
+        "price": 56250,
+        "mileage": 23,
+        "seats": 2,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grsupra/model/2372/exteriorcolor/0D01/interiorcolor/LA20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota GR Supra 3.0 Premium",
+        "price": 59400,
+        "mileage": 23,
+        "seats": 2,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grsupra/model/2374/exteriorcolor/0D13/interiorcolor/LB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "gas",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Sienna LE",
+        "price": 39185,
+        "mileage": 36,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5402/exteriorcolor/0040/interiorcolor/FA15/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Sienna XLE",
+        "price": 43995,
+        "mileage": 36,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5408/exteriorcolor/08X8/interiorcolor/EA15/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Sienna XSE",
+        "price": 46640,
+        "mileage": 36,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5410/exteriorcolor/03T3/interiorcolor/EB16/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Sienna Limited",
+        "price": 50200,
+        "mileage": 36,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5414/exteriorcolor/06X5/interiorcolor/LA25/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Sienna Woodland Edition",
+        "price": 504245,
+        "mileage": 34,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5409/exteriorcolor/01H5/interiorcolor/EB22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+      },
+      {
+        "model": "Toyota Sienna Platinum",
+        "price": 56145,
+        "mileage": 36,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sienna/model/5418/exteriorcolor/01G3/interiorcolor/LB42/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "minivan",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+      },
+      {
+        "model": "Toyota Prius Prime SE",
+        "price": 32975,
+        "mileage": 52,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1235/exteriorcolor/0089/interiorcolor/FA23/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Prius Prime XSE",
+        "price": 36225,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1237/exteriorcolor/03U5/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      },
+      {
+        "model": "Toyota Prius Prime XSE Premium",
+        "price": 39670,
+        "mileage": 48,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/priusprime/model/1239/exteriorcolor/0218/interiorcolor/EA22/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+        "type": "car",
+        "engine" : "hybrid",
+        "trim" : "sport"
+      }
 ]
