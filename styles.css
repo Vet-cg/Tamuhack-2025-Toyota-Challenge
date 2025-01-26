@@ -146,3 +146,81 @@ body {
 .hide {
     display: none;
 }
+
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border-radius: 20px;
+    background: #aaa;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
+    transition: transform 0.5s ease-in-out;
+    flex: 1 1 calc(300px - 20px); /* Ensures the cards fit within a row */
+}
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card-image {
+    height: 155px;
+    width: 300px;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+
+.card-item {
+    width: 30%;
+    text-align: center;
+    color: black;
+    display: block;
+    font-family: helvetica, sans-serif;
+    padding: 3%;
+}
+
+.card-item-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.card-item-big {
+    font-size: 12px;
+}
+
+.card-item-small {
+    font-size: 9px;
+}
+.card-item-left {
+    border-right: 1px black solid;
+}
+
+.card-item-right {
+    border-left: 1px black solid;
+}
+
+.card-button {
+    margin: 10px;
+    padding: 5px;
+    background: #aaa;
+    border-radius: 2px;
+    border-color: black;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px;
+}
