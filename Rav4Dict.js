@@ -15,7 +15,9 @@ const Rav4LE_dict = {
         "Front-Wheel Drive (FWD)",
         "Available All-Wheel Drive (AWD)",
     ],
-    Performance: "4-Cyl.: 203 net combined horsepower; 184 lb.-ft.",
+    Performance: [
+        "4-Cyl.: 203 net combined horsepower; 184 lb.-ft."
+    ],
     targetAudience: "The Toyota RAV4 LE targets practical, value-driven drivers looking for a reliable, fuel-efficient crossover with essential features and a versatile design for everyday use."
   }
 const Rav4XHybridXLE_dict = {
@@ -35,7 +37,9 @@ const Rav4XHybridXLE_dict = {
         "Front-Wheel Drive (FWD)",
         "Available All-Wheel Drive (AWD)",
     ],
-    Performance: "4-Cyl.: 203 net combined horsepower; 184 lb.-ft.",
+    Performance: [
+        "4-Cyl.: 203 net combined horsepower; 184 lb.-ft."
+    ],
     targetAudience: "The Toyota RAV4 XLE appeals to individuals seeking a well-rounded, mid-level crossover with a balance of advanced features, comfort, and style for both daily commuting and weekend adventures."
 }
 const Rav4HybridLE_dict = {
@@ -54,7 +58,9 @@ const Rav4HybridLE_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid LE targets eco-conscious drivers who want a fuel-efficient, all-wheel-drive crossover with a practical design and essential features for everyday versatility."
 }
 const Rav4XLEPremium_dict = {
@@ -74,7 +80,9 @@ const Rav4XLEPremium_dict = {
         "Front-Wheel Drive (FWD)",
         "Available All-Wheel Drive (AWD)",
     ],
-    Performance: "4-Cyl.: 203 net combined horsepower; 184 lb.-ft.",
+    Performance: [
+        "4-Cyl.: 203 net combined horsepower; 184 lb.-ft."
+    ],
     targetAudience: "The Toyota RAV4 XLE Premium appeals to buyers seeking a more refined, feature-rich crossover with added comfort, upscale finishes, and a balance of performance and efficiency for both urban and outdoor lifestyles."
 }
 const Rav4HybridXLE_dict = {
@@ -93,7 +101,9 @@ const Rav4HybridXLE_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid XLE targets eco-conscious drivers who want a stylish, fuel-efficient crossover with advanced features, a comfortable ride, and the added benefits of hybrid technology."
 }
 const Rav4HybridSE_dict = {
@@ -135,7 +145,9 @@ const Rav4HybridWoodlandEdition_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid Woodland Edition targets adventure-loving, eco-conscious drivers who want a rugged, off-road-capable hybrid with a stylish, outdoorsy design for weekend getaways and outdoor activities."
 }
 const Rav4HybridXLEPremium_dict = {
@@ -154,7 +166,9 @@ const Rav4HybridXLEPremium_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid XLE Premium targets eco-conscious buyers seeking a blend of upscale features, enhanced comfort, and fuel efficiency in a stylish, versatile hybrid crossover."
 }
 const Rav4Limited_dict = {
@@ -174,7 +188,9 @@ const Rav4Limited_dict = {
         "Front-Wheel Drive (FWD)",
         "Available Torque Vectoring All-Wheel Drive (TV-AWD)"
     ],
-    Performance: "4-Cyl.: 203 net combined horsepower; 184 lb.-ft.",
+    Performance: [
+        "4-Cyl.: 203 net combined horsepower; 184 lb.-ft."
+    ],
     targetAudience: "The Toyota RAV4 Limited targets drivers looking for a high-end, feature-packed crossover with premium finishes, advanced technology, and a refined driving experience."
 }
 const Rav4HybridXSE_dict = {
@@ -193,7 +209,9 @@ const Rav4HybridXSE_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid XSE appeals to drivers seeking a sporty, eco-friendly crossover with advanced hybrid technology, dynamic styling, and a premium driving experience."
 }
 const Rav4HybridLimited_dict = {
@@ -212,7 +230,9 @@ const Rav4HybridLimited_dict = {
         "Electronically controlled Continuously Variable Transmission (ECVT)",
         "Electronic On-Demand All-Wheel Drive (AWD)",
     ],
-    Performance: "2.5L hybrid engine, 219 net combined horsepower",
+    Performance: [
+        "2.5L hybrid engine, 219 net combined horsepower"
+    ],
     targetAudience: "The Toyota RAV4 Hybrid Limited targets eco-conscious buyers seeking a luxury crossover with advanced hybrid efficiency, premium features, and a high level of comfort and technology."
 }
 const Rav4PlugInHybridSE_dict = {

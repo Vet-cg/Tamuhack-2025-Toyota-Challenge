@@ -18,7 +18,9 @@ const HighlanderLE_dict = {
         "2.4-liter 4-cylinder turbo engine",
         "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "265 hp; 310 lb.-ft. of torque",
+    Performance: [
+        "265 hp; 310 lb.-ft. of torque"
+    ],
     targetAudience: "The Toyota Highlander LE targets families and individuals seeking a spacious, reliable, and well-equipped mid-size SUV with essential features for everyday comfort and versatility."
 }
 const HighlanderXLE_dict = {
@@ -41,7 +43,9 @@ const HighlanderXLE_dict = {
         "2.4-liter 4-cylinder turbo engine",
         "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "265 hp; 310 lb.-ft. of torque",
+    Performance: [
+        "265 hp; 310 lb.-ft. of torque"
+    ],
     targetAudience: "The Toyota Highlander XLE appeals to buyers seeking a well-appointed, mid-size SUV with enhanced comfort, advanced features, and a balance of practicality and luxury for family and lifestyle use."
 }
 const HighlanderHybridXLE_dict = {
@@ -64,7 +68,9 @@ const HighlanderHybridXLE_dict = {
         "2.5-liter hybrid engine",
         "Electronic On-Demand All-Wheel Drive (AWD)"
     ],
-    Performance: "Hybrid powertrain: 243 combined net hp; 175 lb.-ft.",
+    Performance: [
+        "Hybrid powertrain: 243 combined net hp; 175 lb.-ft."
+    ],
     targetAudience: "The Toyota Highlander Hybrid XLE targets eco-conscious families seeking a spacious, fuel-efficient SUV with advanced features, comfort, and hybrid technology for everyday and long-distance driving."
 }
 const HighlanderXSE_dict = {
@@ -87,7 +93,9 @@ const HighlanderXSE_dict = {
         "2.4-liter 4-cylinder turbo engine",
         "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "265 hp; 310 lb.-ft. of torque",
+    Performance: [
+        "265 hp; 310 lb.-ft. of torque"
+    ],
     targetAudience: "The Toyota Highlander XSE appeals to buyers who want a sporty, stylish mid-size SUV with a performance-oriented design, advanced features, and a refined driving experience for both family and personal use."
 }
 const HighlanderLimited_dict = {
@@ -110,7 +118,9 @@ const HighlanderLimited_dict = {
         "2.4-liter 4-cylinder turbo engine",
         "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "265 hp; 310 lb.-ft. of torque",
+    Performance: [
+        "265 hp; 310 lb.-ft. of torque"
+    ],
     targetAudience: "The Toyota Highlander Limited targets buyers seeking a premium, feature-rich mid-size SUV with advanced technology, luxurious finishes, and ample space for family and long-distance travel."
 }
 const HighlanderHybridXLENightshade_dict = {
@@ -133,7 +143,9 @@ const HighlanderHybridXLENightshade_dict = {
         "2.5-liter hybrid engine",
         "Electronic On-Demand All-Wheel Drive (AWD)"
     ],
-    Performance: "Hybrid powertrain: 243 combined net hp; 175 lb.-ft.",
+    Performance: [
+        "Hybrid powertrain: 243 combined net hp; 175 lb.-ft."
+    ],
     targetAudience: "The Toyota Highlander Hybrid Nightshade Edition appeals to eco-conscious buyers who want a stylish, blacked-out design combined with the efficiency and performance of a hybrid, offering a unique and upscale driving experience."
 }
 const HighlanderHybridLimited_dict = {
@@ -156,7 +168,9 @@ const HighlanderHybridLimited_dict = {
         "2.5-liter hybrid engine",
         "Electronic On-Demand All-Wheel Drive (AWD)"
     ],
-    Performance: "Hybrid powertrain: 243 combined net hp; 175 lb.-ft.",
+    Performance: [
+        "Hybrid powertrain: 243 combined net hp; 175 lb.-ft."
+    ],
     targetAudience: "The Toyota Highlander Hybrid Limited targets eco-conscious families seeking a luxurious, fuel-efficient SUV with advanced technology, premium features, and ample space for both everyday use and long trips."
 }
 const HighlanderPlatinum_dict = {
@@ -179,7 +193,9 @@ const HighlanderPlatinum_dict = {
         "2.4-liter 4-cylinder turbo engine",
         "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "265 hp; 310 lb.-ft. of torque",
+    Performance: [
+        "265 hp; 310 lb.-ft. of torque"
+    ],
     targetAudience: "The Toyota Highlander Platinum targets discerning buyers seeking a top-tier, feature-packed mid-size SUV with luxury finishes, advanced technology, and exceptional comfort for family and executive-level travel."
 }
 const HighlanderLimited25thEdition_dict = {
@@ -202,7 +218,9 @@ const HighlanderLimited25thEdition_dict = {
         "2.5-liter hybrid engine",
         "Electronic On-Demand All-Wheel Drive (AWD)"
     ],
-    Performance: "Hybrid powertrain: 243 combined net hp; 175 lb.-ft.",
+    Performance: [
+        "Hybrid powertrain: 243 combined net hp; 175 lb.-ft."
+    ],
     targetAudience: "The Toyota Highlander Hybrid Limited 25th Edition appeals to eco-conscious families seeking a special edition, luxurious, fuel-efficient SUV with exclusive features, advanced technology, and premium comfort for both daily driving and long-distance travel."
 }
 const HighlanderHybridPlatinum_dict = {
@@ -225,6 +243,8 @@ const HighlanderHybridPlatinum_dict = {
         "2.5-liter hybrid engine",
         "Electronic On-Demand All-Wheel Drive (AWD)"
     ],
-    Performance: "Hybrid powertrain: 243 combined net hp; 175 lb.-ft.",
+    Performance: [
+        "Hybrid powertrain: 243 combined net hp; 175 lb.-ft."
+    ],
     targetAudience: "The Toyota Highlander Hybrid Platinum targets eco-conscious buyers looking for a high-end, fuel-efficient SUV with premium features, advanced technology, and exceptional comfort for both family and luxury travel."
 }
