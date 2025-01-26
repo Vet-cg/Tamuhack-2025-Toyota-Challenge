@@ -15,7 +15,9 @@ const CarollaCrossL_dict = {
       "Front-Wheel Drive (FWD)",
       "Available All-Wheel Drive (AWD)"
     ],
-    Performance: "169 hp; 151 lb.-ft. torque",
+    Performance: [
+      "169 hp; 151 lb.-ft. torque"
+    ],
     targetAudience: "The Toyota Corolla Cross L targets budget-conscious drivers seeking a reliable, no-frills compact SUV with essential features."
   }
 const CarollaCrossLE_dict = {
@@ -35,7 +37,9 @@ const CarollaCrossLE_dict = {
     "Front-Wheel Drive (FWD)",
     "Available All-Wheel Drive (AWD)"
   ],
-  Performance: "169 hp; 151 lb.-ft. torque",
+  Performance: [
+    "169 hp; 151 lb.-ft. torque"
+  ],
   targetAudience: "The Toyota Corolla Cross LE targets young, practical buyers looking for a stylish, well-equipped, and affordable compact SUV."
 }
 
@@ -56,7 +60,9 @@ const CarollaCrossXLE_dict = {
     "Front-Wheel Drive (FWD)",
     "Available All-Wheel Drive (AWD)"
   ],
-  Performance: "169 hp; 151 lb.-ft. torque",
+  Performance: [
+    "169 hp; 151 lb.-ft. torque"
+  ],
   targetAudience: "The Toyota Corolla Cross XLE targets consumers seeking a premium, feature-packed compact SUV with advanced tech and comfort at an affordable price."
 }
 const CarollaCrossHybridS_dict = {
@@ -75,7 +81,9 @@ const CarollaCrossHybridS_dict = {
     "2.0L 4-Cyl. Hybrid",
     "Electronic On-Demand All-Wheel Drive (AWD)"
   ],
-  Performance: "196 net combined hp",
+  Performance: [
+    "196 net combined hp"
+  ],
   targetAudience: "The Toyota Corolla Cross Hybrid S targets environmentally-conscious urban drivers seeking a fuel-efficient, compact SUV with modern features and a comfortable ride."
 }
 const CarollaCrossHybridSE_dict = {
@@ -94,7 +102,9 @@ const CarollaCrossHybridSE_dict = {
     "2.0L 4-Cyl. Hybrid",
     "Electronic On-Demand All-Wheel Drive (AWD)"
   ],
-  Performance: "196 net combined hp",
+  Performance: [
+    "196 net combined hp"
+  ],
   targetAudience: "The Toyota Corolla Cross Hybrid SE appeals to tech-savvy, eco-conscious individuals who prioritize advanced features, sporty design, and enhanced performance in a compact SUV."
 }
 const CarollaCrossHybridNightshade_dict = {
@@ -113,7 +123,9 @@ const CarollaCrossHybridNightshade_dict = {
     "2.0L 4-Cyl. Hybrid",
     "Electronic On-Demand All-Wheel Drive (AWD)"
   ],
-  Performance: "196 net combined hp",
+  Performance: [
+    "196 net combined hp"
+  ],
   targetAudience: "The Toyota Corolla Cross Hybrid Nightshade targets style-conscious, eco-minded drivers who want a sleek, blacked-out design with the efficiency and performance of a hybrid SUV."
 }
 const CarollaCrossHybridXSE_dict = {
@@ -132,6 +144,8 @@ const CarollaCrossHybridXSE_dict = {
     "2.0L 4-Cyl. Hybrid",
     "Electronic On-Demand All-Wheel Drive (AWD)"
   ],
-  Performance: "196 net combined hp",
+  Performance: [
+    "196 net combined hp"
+  ],
   targetAudience: "The Toyota Corolla Cross Hybrid XSE appeals to drivers who seek a premium, sporty compact SUV with advanced features, a high-performance hybrid powertrain, and a stylish design."
 }
