@@ -1,10 +1,212 @@
-{
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true
+[
+  {
+    "model": "Toyota Tacoma SR",
+    "price": 31590,
+    "mileage": 20,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7955/exteriorcolor/0218/interiorcolor/LC25/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
+  },
+  {
+    "model": "Toyota Tacoma SR5",
+    "price": 36220,
+    "mileage": 21,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7126/exteriorcolor/01J9/interiorcolor/FB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
+  },
+  {
+    "model": "Toyota Tacoma TRD PreRunner",
+    "price": 38120,
+    "mileage": 20,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7166/exteriorcolor/01L7/interiorcolor/FC11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota TRD Sport",
+    "price": 39400,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7148/exteriorcolor/08W7/interiorcolor/FE11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "sport"
+  },
+  {
+    "model": "Toyota TRD Off-Road",
+    "price": 41800,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7545/exteriorcolor/04Z0/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma Limited",
+    "price": 52555,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7582/exteriorcolor/03U5/interiorcolor/EB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tacoma TRD Sport i-FORCE MAX",
+    "price": 46320,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7530/exteriorcolor/0202/interiorcolor/FE12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma TRD Off-Road i-FORCE MAX",
+    "price": 46620,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7532/exteriorcolor/01J9/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma TrailHunter",
+    "price": 62735,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7536/exteriorcolor/06X1/interiorcolor/EC60/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota TRD Pro",
+    "price": 63735,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7598/exteriorcolor/0M16/interiorcolor/ED22/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Limited i-FORCE MAX",
+    "price": 55880,
+    "mileage": 23,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tacoma/model/7534/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tundra SR",
+    "price": 40090,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8242/exteriorcolor/01J9/interiorcolor/FA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
+  },
+  {
+    "model": "Toyota Tundra SR5",
+    "price": 45960,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8241/exteriorcolor/0040/interiorcolor/FB13/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tundra Limited",
+    "price": 54305,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8272/exteriorcolor/03U5/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Limited i-FORCE MAX",
+    "price": 58005,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8401/exteriorcolor/06X3/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tundra Platinum",
+    "price": 63675,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8275/exteriorcolor/08X8/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota 1794 Edition",
+    "price": 64360,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8276/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Platinum i-FORCE MAX",
+    "price": 67585,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8402/exteriorcolor/0218/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota 1794 Edition i-FORCE MAX",
+    "price": 68285,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8403/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota TRD Pro",
+    "price": 72510,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tundra Capstone",
+    "price": 80725,
+    "mileage": 5,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
   }
-}
+]

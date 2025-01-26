@@ -1,20 +1,882 @@
 [
   {
-    "model": "Toyota Corolla",
-    "price": 20000,
-    "mileage": 30,
-    "seats": 5,
-    "link": "https://www.toyota.com/corolla/",
-    "type": "car",
-    "engine" : "hybrid",
-    "trim" : "sport",
+  "model": "Toyota Tacoma SR",
+    "price": 31590,
+    "mileage": 20,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7955/exteriorcolor/0218/interiorcolor/LC25/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
   },
   {
-    "model": "Toyota Highlander",
-    "price": 35000,
-    "mileage": 24,
-    "seats": 7,
-    "link": "https://www.toyota.com/highlander/",
-    "tags": ["SUV", "family", "spacious"]
-  }
+    "model": "Toyota Tacoma SR5",
+    "price": 36220,
+    "mileage": 21,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7126/exteriorcolor/01J9/interiorcolor/FB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
+  },
+  {
+    "model": "Toyota Tacoma TRD PreRunner",
+    "price": 38120,
+    "mileage": 20,
+    "seats": 2,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7166/exteriorcolor/01L7/interiorcolor/FC11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota TRD Sport",
+    "price": 39400,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7148/exteriorcolor/08W7/interiorcolor/FE11/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "sport"
+  },
+  {
+    "model": "Toyota TRD Off-Road",
+    "price": 41800,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7545/exteriorcolor/04Z0/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma Limited",
+    "price": 52555,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7582/exteriorcolor/03U5/interiorcolor/EB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tacoma TRD Sport i-FORCE MAX",
+    "price": 46320,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7530/exteriorcolor/0202/interiorcolor/FE12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma TRD Off-Road i-FORCE MAX",
+    "price": 46620,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7532/exteriorcolor/01J9/interiorcolor/FD12/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tacoma TrailHunter",
+    "price": 62735,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7536/exteriorcolor/06X1/interiorcolor/EC60/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota TRD Pro",
+    "price": 63735,
+    "mileage": 22,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tacoma/model/7598/exteriorcolor/0M16/interiorcolor/ED22/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Limited i-FORCE MAX",
+    "price": 55880,
+    "mileage": 23,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tacoma/model/7534/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tundra SR",
+    "price": 40090,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8242/exteriorcolor/01J9/interiorcolor/FA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "basic"
+  },
+  {
+    "model": "Toyota Tundra SR5",
+    "price": 45960,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8241/exteriorcolor/0040/interiorcolor/FB13/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tundra Limited",
+    "price": 54305,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8272/exteriorcolor/03U5/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Limited i-FORCE MAX",
+    "price": 58005,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8401/exteriorcolor/06X3/interiorcolor/EA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Tundra Platinum",
+    "price": 63675,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8275/exteriorcolor/08X8/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota 1794 Edition",
+    "price": 64360,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8276/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "gas",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota Platinum i-FORCE MAX",
+    "price": 67585,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8402/exteriorcolor/0218/interiorcolor/LA21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota 1794 Edition i-FORCE MAX",
+    "price": 68285,
+    "mileage": 20,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/cab/year/2025/series/tundra/model/8403/exteriorcolor/04X4/interiorcolor/LB44/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  },
+  {
+    "model": "Toyota TRD Pro",
+    "price": 72510,
+    "mileage": 18,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "outdoor"
+  },
+  {
+    "model": "Toyota Tundra Capstone",
+    "price": 80725,
+    "mileage": 5,
+    "seats": 5,
+    "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/tundra/model/8424/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=0239272e-a704-400b-9d91-24a72c9c7add",
+    "type": "truck",
+    "engine" : "hybrid",
+    "trim" : "luxary"
+  }, 
+  { 
+      "model": "Toyota Corolla Cross L",
+      "price": 24035,
+      "mileage": 31,
+      "seats": 5,
+      "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6301/exteriorcolor/0089/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+      "type": "suv",
+      "engine" : "gas",
+      "trim" : "basic"
+    },
+    {
+      "model": "Toyota Corolla Cross LE",
+      "price": 26365,
+      "mileage": 31,
+      "seats": 5,
+      "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6303/exteriorcolor/06X5/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+      "type": "suv",
+      "engine" : "gas",
+      "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Corolla Cross XLE",
+        "price": 28260,
+        "mileage": 31,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6305/exteriorcolor/01K3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Corolla Cross Hybrid S",
+        "price": 28395,
+        "mileage": 45,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6312/exteriorcolor/0D10/interiorcolor/FB11/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Corolla Cross Hybrid SE",
+        "price": 29715,
+        "mileage": 45,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6314/exteriorcolor/0D15/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Corolla Cross Hybrid Nightshade",
+        "price": 30640,
+        "mileage": 45,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6315/exteriorcolor/0D23/interiorcolor/FB22/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Corolla Cross Hybrid XSE",
+        "price": 31580,
+        "mileage": 45,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/corollacross/model/6316/exteriorcolor/0D25/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Rav4 LE",
+        "price": 28850,
+        "mileage": 27,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4430/exteriorcolor/01D6/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 XLE",
+        "price": 30360,
+        "mileage": 27,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4440/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid LE",
+        "price": 31900,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4435/exteriorcolor/01D6/interiorcolor/FB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Premium",
+        "price": 33250,
+        "mileage": 27,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4477/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid XLE",
+        "price": 33410,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4444/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid SE",
+        "price": 34595,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4524/exteriorcolor/01G3/interiorcolor/FC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid Woodland Edition",
+        "price": 35120,
+        "mileage": 38,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4437/exteriorcolor/0M02/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid XLE Premium",
+        "price": 36300,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4528/exteriorcolor/0218/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Limited",
+        "price": 37155,
+        "mileage": 27,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4450/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid XSE",
+        "price": 37560,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4530/exteriorcolor/02VV/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Rav4 Hybrid Limited",
+        "price": 40205,
+        "mileage": 41,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4/model/4534/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Rav4 Plug-in Hybrid SE",
+        "price": 43865,
+        "mileage": 38,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4pluginhybrid/model/4544/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Rav4 Plug-in Hybrid XSE",
+        "price": 47735,
+        "mileage": 38,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/rav4pluginhybrid/model/4550/exteriorcolor/02SC/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Venza Hybrid LE",
+        "price": 35070,
+        "mileage": 40,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2810/exteriorcolor/0202/interiorcolor/FA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Venza Hybrid XLE",
+        "price": 39280,
+        "mileage": 40,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2820/exteriorcolor/0089/interiorcolor/EC10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Venza Hybrid Nightshade",
+        "price": 39980,
+        "mileage": 40,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2825/exteriorcolor/03T3/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Venza Hybrid Limited",
+        "price": 43215,
+        "mileage": 40,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2024/series/venza/model/2830/exteriorcolor/01K9/interiorcolor/EA10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander LE",
+        "price": 39520,
+        "mileage": 22,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6946/exteriorcolor/01G3/interiorcolor/FB10/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander XLE",
+        "price": 42670,
+        "mileage": 22,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6951/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid XLE",
+        "price": 46020,
+        "mileage": 35,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6965/exteriorcolor/0089/interiorcolor/EB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid XSE",
+        "price": 46340,
+        "mileage": 21,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6959/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota Highlander Limited",
+        "price": 46775,
+        "mileage": 22,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6954/exteriorcolor/06X5/interiorcolor/LB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid XLE Nightshade",
+        "price": 47020,
+        "mileage": 35,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6989/exteriorcolor/01H5/interiorcolor/EC20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid Limited",
+        "price": 50475,
+        "mileage": 35,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6966/exteriorcolor/06X5/interiorcolor/LB20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Platinum",
+        "price": 51925,
+        "mileage": 21,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6957/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid Limited 25th Edition",
+        "price": 52680,
+        "mileage": 35,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6982/exteriorcolor/01L5/interiorcolor/LD42/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Highlander Hybrid Platinum",
+        "price": 53675,
+        "mileage": 35,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/highlander/model/6967/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner SR5",
+        "price": 40770,
+        "mileage": 20,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8642/exteriorcolor/0040/interiorcolor/FA20/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota 4Runner TRD Sport",
+        "price": 47250,
+        "mileage": 20,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8643/exteriorcolor/03U5/interiorcolor/FB12/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota 4Runner TRD Off-Road",
+        "price": 49190,
+        "mileage": 19,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8670/exteriorcolor/06X7/interiorcolor/FB12/packages/FE/?bap_guid=b5de8589-d132-4d94-a662-34b651a3e943",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota 4Runner TRD Off-Road i-FORCE MAX",
+        "price": 51990,
+        "mileage": 23,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8628/exteriorcolor/0202/interiorcolor/FB11/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota 4Runner TRD Sport Premium",
+        "price": 52610,
+        "mileage": 20,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8644/exteriorcolor/0089/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "sport"
+    },
+    {
+        "model": "Toyota 4Runner TRD Off-Road Premium",
+        "price": 54970,
+        "mileage": 19,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8672/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner Limited",
+        "price": 55400,
+        "mileage": 20,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8648/exteriorcolor/08X0/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner TRD Off-Road Premium i-FORCE MAX",
+        "price": 57770,
+        "mileage": 23,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8630/exteriorcolor/01L0/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner Limited i-FORCE MAX",
+        "price": 60200,
+        "mileage": 23,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8632/exteriorcolor/03U5/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner Platinum",
+        "price": 62860,
+        "mileage": 23,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8638/exteriorcolor/01L7/interiorcolor/LB81/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota 4Runner TRD Pro",
+        "price": 66900,
+        "mileage": 23,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8634/exteriorcolor/04Z2/interiorcolor/EC22/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota 4Runner Trailhunter",
+        "price": 66900,
+        "mileage": 23,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/4runner/model/8636/exteriorcolor/06X7/interiorcolor/EB63/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota bZ4X XLE",
+        "price": 37070,
+        "mileage": 252, 
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2870/exteriorcolor/03U5/interiorcolor/EB20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "electric",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota bZ4X Nightshade",
+        "price": 40420,
+        "mileage": 222, 
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2884/exteriorcolor/02VP/interiorcolor/EC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "electric",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota bZ4X Limited",
+        "price": 41800,
+        "mileage": 236, 
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/bz4x/model/2880/exteriorcolor/02WC/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "electric",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander XLE",
+        "price": 43630,
+        "mileage": 21,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6702/exteriorcolor/03T3/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Hybrid XLE",
+        "price": 45380,
+        "mileage": 37,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6716/exteriorcolor/08X8/interiorcolor/EA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Limited",
+        "price": 48360,
+        "mileage": 21,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6704/exteriorcolor/01L5/interiorcolor/LC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Hybrid Limited",
+        "price": 51710,
+        "mileage": 36,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6724/exteriorcolor/03T3/interiorcolor/LC20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Hybrid Nightshade",
+        "price": 52610,
+        "mileage": 36,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6733/exteriorcolor/01H5/interiorcolor/LD20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Platinum",
+        "price": 54045,
+        "mileage": 20,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6712/exteriorcolor/0089/interiorcolor/LB10/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "gas",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Hybrid Max Limited",
+        "price": 54690,
+        "mileage": 26,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6730/exteriorcolor/01L5/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Grand Highlander Hybrid Max Platinum",
+        "price": 58775,
+        "mileage": 26,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/grandhighlander/model/6732/exteriorcolor/08X8/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Crown Signia XLE",
+        "price": 43590,
+        "mileage": 39,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrownsignia/model/4040/exteriorcolor/04Y6/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Crown Signia Limited",
+        "price": 47990,
+        "mileage": 39,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/toyotacrownsignia/model/4041/exteriorcolor/01L6/interiorcolor/LA20/packages/FE/?bap_guid=b10bb306-4172-4677-92c6-23f375a60d3e",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Land Cruiser 1958",
+        "price": 56700,
+        "mileage": 22,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/landcruiser/model/6165/exteriorcolor/04V8/interiorcolor/FB20/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota Land Cruiser",
+        "price": 61470,
+        "mileage": 22,
+        "seats": 5,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/landcruiser/model/6167/exteriorcolor/02ZD/interiorcolor/EB40/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota Sequoia SR5",
+        "price": 62425,
+        "mileage": 21,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7946/exteriorcolor/01J9/interiorcolor/FB13/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota Sequoia Limited",
+        "price": 68825,
+        "mileage": 21,
+        "seats": 8,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7948/exteriorcolor/03U5/interiorcolor/EA21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Sequoia Platinum",
+        "price": 79570,
+        "mileage": 19,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7951/exteriorcolor/08X8/interiorcolor/LA21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Sequoia TRD Pr",
+        "price": 80295,
+        "mileage": 19,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7953/exteriorcolor/04Z2/interiorcolor/EB21/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "outdoor"
+    },
+    {
+        "model": "Toyota Sequoia 1794 Edition",
+        "price": 80385,
+        "mileage": 19,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7957/exteriorcolor/0089/interiorcolor/LB44/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    },
+    {
+        "model": "Toyota Sequoia Capstone",
+        "price": 83915,
+        "mileage": 19,
+        "seats": 7,
+        "link": "https://www.toyota.com/configurator/build/step/color/year/2025/series/sequoia/model/7955/exteriorcolor/0218/interiorcolor/LC25/packages/FE/?bap_guid=8225065b-b2bf-45a0-8294-a73e4d47fe8b",
+        "type": "suv",
+        "engine" : "hybrid",
+        "trim" : "luxary"
+    }
 ]
