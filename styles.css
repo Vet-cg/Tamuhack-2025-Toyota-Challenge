@@ -102,6 +102,13 @@ body {
     margin-bottom: 2rem;
 }
 
+.quiz-details {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
 /* Buttons */
 .start-btn {
     background-color: #EB0A1E; /* Toyota Red */
