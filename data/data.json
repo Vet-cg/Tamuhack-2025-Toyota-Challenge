@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Toyota Corolla",
+    "price": 20000,
+    "mileage": 30,
+    "seats": 5,
+    "link": "https://www.toyota.com/corolla/",
+    "type": "car",
+    "engine" : "hybrid",
+    "trim" : "sport",
+  },
+  {
+    "model": "Toyota Highlander",
+    "price": 35000,
+    "mileage": 24,
+    "seats": 7,
+    "link": "https://www.toyota.com/highlander/",
+    "tags": ["SUV", "family", "spacious"]
+  }
+]
