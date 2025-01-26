@@ -1,4 +1,4 @@
-const EVbZFourXXLE_dict = {
+const EVbZ4XXLE_dict = {
     price: "$37,070",
     milage: "252 Miles",
     seats: "5",
@@ -16,7 +16,7 @@ const EVbZFourXXLE_dict = {
     Performance: "AC synchronous electric motor(s), 201 total system horsepower (FWD), 214 total combined system horsepower (AWD)",
     targetAudience: "The Toyota bZ4X XLE targets environmentally-minded drivers who seek an affordable, tech-rich electric SUV with practical features and a stylish design."
 }
-const EVbZFourXNighshade_dict = {
+const EVbZ4XNighshade_dict = {
     price: "$40,420",
     milage: "222 Miles",
     seats: "5",
@@ -35,7 +35,7 @@ const EVbZFourXNighshade_dict = {
     ],
     targetAudience: "The Toyota bZ4X Nightshade targets style-conscious, eco-aware drivers who want a distinctive, blacked-out design paired with the benefits of an electric vehicle."
 }
-const EVbZFourXLimited_dict = {
+const EVbZ4XLimited_dict = {
     price: "$41,800",
     milage: "236 Miles",
     seats: "5",
