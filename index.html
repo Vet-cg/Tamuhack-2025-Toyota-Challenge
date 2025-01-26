@@ -14,19 +14,37 @@
     <h1>Discover the Toyota That's Right for You</h1>
 </header>
 
-<main class="quiz-container">
+<main class="question-container">
     <div class="quiz-intro" id="intro">
-        <p>Take our short quiz to discover the perfect Toyota vehicle for your needs.</p>
+        <h2>Take our short quiz to discover the perfect Toyota vehicle for your needs.</h2>
         <button class="start-btn" id="startBtn">Get Started</button>
     </div>
     <div class="quiz-question hide" id="question1">
-        <h2>Question 1</h2>
-        <p>What type of vehicle are you looking for?</p>
-        <button class="quiz-option" data-answer="Car">Car</button>
-        <button class="quiz-option" data-answer="Minivan">Minivan</button>
-        <button class="quiz-option" data-answer="SUV-Crossover">SUV/Crossover</button>
-        <button class="quiz-option" data-answer="Truck">Truck</button>
-        <button class="quiz-option" data-answer="No-Preference">No Preference</button>
+        <h2>What type of vehicle are you looking for?</h2>
+        <div class="quiz-options-container">
+            <div class="question-options">
+                <div class="question-option">
+                    <button class="quiz-button" data-answer="Car">Car</button>
+                    <p> Example: Camry</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" data-answer="Minivan">Minivan</button>
+                    <p> Example: Minivan</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" data-answer="SUV-Crossover">SUV/Crossover</button>
+                    <p> Example: SUV-Crossover</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" data-answer="Truck">Truck</button>
+                    <p> Example: Truck</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" data-answer="No-Preference">No Preference</button>
+                    <p> Example: No Preference</p>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="quiz-controls hide" id="controls">
         <button id="prev-btn" class="control-btn" disabled>Previous</button>
