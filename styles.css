@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
     color: #333;
     background-color: #f7f7f7;
-    background-image: url("./images/background-offroad.jpg");
+    background-image: url("./images/background-generic.jpg");
     background-attachment: fixed;
     background-size: cover;
     display: flex;
@@ -40,7 +40,7 @@ body {
     z-index: 1000; /* Ensure it stays above other content */
 }
 
-.header .logo img {
+.logo img {
     max-width: 150px;
     margin-bottom: 1rem;
 }
@@ -55,6 +55,7 @@ body {
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
 }
 
 .question-options{
@@ -162,14 +163,15 @@ body {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
     transition: transform 0.5s ease-in-out;
     flex: 1 1 calc(300px - 20px); /* Ensures the cards fit within a row */
+    margin: 10px;
 }
 .card:hover {
     transform: scale(1.05);
 }
 
 .card-image {
-    height: 155px;
-    width: 300px;
+    height: 129px;
+    width: 301px;
 }
 
 .card-title {
@@ -223,5 +225,5 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     justify-content: center;
-    margin: 20px;
+    margin-top: 50px;
 }
