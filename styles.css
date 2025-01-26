@@ -156,7 +156,7 @@ body {
     align-items: center;
     width: 300px;
     border-radius: 20px;
-    background: #aaa;
+    background: white;
     padding: 5px;
     overflow: hidden;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 20px 0px;
@@ -212,7 +212,8 @@ body {
 .card-button {
     margin: 10px;
     padding: 5px;
-    background: white;
+    background: #EB0A1E;
+    color: white;
     border-radius: 2px;
     border-color: black;
 }
