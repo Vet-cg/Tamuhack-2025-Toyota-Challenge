@@ -5,6 +5,7 @@ const question1 = document.getElementById("question1");
 const question2 = document.getElementById("question2");
 const question3 = document.getElementById("question3");
 const question4 = document.getElementById("question4");
+const cardsContainer = document.getElementById("cards-container");
 const optCar = document.getElementById("optCar");
 const optSUV = document.getElementById("optSUV");
 const optTruck = document.getElementById("optTruck");
@@ -18,6 +19,11 @@ const optBudget2 = document.getElementById("optBudget2");
 const optBudget3 = document.getElementById("optBudget3");
 const optBudget4 = document.getElementById("optBudget4");
 const optBudget5 = document.getElementById("optBudget5");
+const optLux = document.getElementById("optLux");
+const optSport = document.getElementById("optSport");
+const optBasic = document.getElementById("optBasic");
+const optOutdoor = document.getElementById("optOutdoor");
+const optNoPref3 = document.getElementById("optNoPref3");
 
 const userPreferences = {}
 
@@ -87,20 +93,131 @@ optBudget5.addEventListener("click", function() {
     question3.classList.add("hide");
     question4.classList.remove("hide");userPreferences.price = 15000;
 })
+optNoPref3.addEventListener("click", function() {
+    question4.classList.add("hide");
+    cardsContainer.classList.remove("hide");
+})
+optLux.addEventListener("click", function() {
+    question4.classList.add("hide");
+    cardsContainer.classList.remove("hide");
+    userPreferences.trim = "luxary";
+    fetchAndFilterVehicles(userPreferences)
+        .then(filteredVehicles => {
+            displayVehicleCards(filteredVehicles);
+        });
+})
+optSport.addEventListener("click", function() {
+    question4.classList.add("hide");
+    cardsContainer.classList.remove("hide");
+    userPreferences.trim = "sport";
+    fetchAndFilterVehicles(userPreferences)
+        .then(filteredVehicles => {
+            displayVehicleCards(filteredVehicles);
+        });
+})
+optBasic.addEventListener("click", function() {
+    question4.classList.add("hide");
+    cardsContainer.classList.remove("hide");
+    userPreferences.trim = "basic";
+    fetchAndFilterVehicles(userPreferences)
+        .then(filteredVehicles => {
+            displayVehicleCards(filteredVehicles);
+        });
+})
+optOutdoor.addEventListener("click", function() {
+    question4.classList.add("hide");
+    cardsContainer.classList.remove("hide");
+    userPreferences.trim = "outdoor";
+    fetchAndFilterVehicles(userPreferences)
+        .then(filteredVehicles => {
+            displayVehicleCards(filteredVehicles);
+        });
+})
 
 
 
-// Load the JSON data (example if it's in a separate file)
-fetch('data/data.json')
-    .then(response => response.json())
-    .then(vehicles => {
-        // User's preference
-        const userPreference = "car";
+async function fetchAndFilterVehicles(userPreferences) {
+    try {
+        const response = await fetch('data/data.json');
+        const vehicles = await response.json();
 
-        // Filter vehicles based on the 'type'
-        const filteredVehicles = vehicles.filter(vehicle => vehicle.type === userPreference);
+        // Filter vehicles based on user preferences
+        const filteredVehicles = vehicles.filter(vehicle => {
+            // Check price
+            if (userPreferences.maxPrice && vehicle.price >= userPreferences.maxPrice) {
+                return false;
+            }
 
-        console.log(filteredVehicles);
-        // Output: Only vehicles with type "car"
-    })
-    .catch(error => console.error('Error fetching vehicle data:', error));
+            // Check type
+            if (userPreferences.type && vehicle.type !== userPreferences.type) {
+                return false;
+            }
+
+            // Check engine
+            if (userPreferences.engine && vehicle.engine !== userPreferences.engine) {
+                return false;
+            }
+
+            // Check trim
+            if (userPreferences.trim && vehicle.trim !== userPreferences.trim) {
+                return false;
+            }
+
+            // All conditions passed
+            return true;
+        });
+
+        return filteredVehicles;
+    } catch (error) {
+        console.error('Error fetching vehicle data:', error);
+        return [];
+    }
+}
+
+function displayVehicleCards(vehicles) {
+    const container = document.getElementById('cards-container');
+    container.innerHTML = ""; // Clear previous results
+
+    vehicles.forEach(vehicle => {
+        const cardHTML = `
+      <div class="card">
+        <img src="${vehicle.image}" alt="${vehicle.model}" class="card-image">
+        <div class="card-title">
+          <h2>${vehicle.model}</h2>
+        </div>
+        <div class="card-item-container">
+          <div class="card-item card-item-left">
+            <div class="card-item-big">
+              $${vehicle.price.toLocaleString()}
+            </div>
+            <div class="card-item-small">
+              Base MSRP
+            </div>
+          </div>
+          <div class="card-item">
+            <div class="card-item-big">
+              ${vehicle.mileage}
+            </div>
+            <div class="card-item-small">
+              Estimated MPG
+            </div>
+          </div>
+          <div class="card-item card-item-right">
+            <div class="card-item-big">
+              ${vehicle.seats}
+            </div>
+            <div class="card-item-small">
+              Seats
+            </div>
+          </div>
+        </div>
+        <button class="card-button">
+          <a href="${vehicle.link}" target="_blank" style="text-decoration: none; color: inherit;">
+            Build Your ${vehicle.model} now!
+          </a>
+        </button>
+      </div>
+    `;
+        container.innerHTML += cardHTML;
+    });
+}
