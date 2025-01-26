@@ -4,6 +4,7 @@ const controls = document.getElementById("controls");
 const question1 = document.getElementById("question1");
 const question2 = document.getElementById("question2");
 const question3 = document.getElementById("question3");
+const question4 = document.getElementById("question4");
 const optCar = document.getElementById("optCar");
 const optSUV = document.getElementById("optSUV");
 const optTruck = document.getElementById("optTruck");
@@ -62,7 +63,30 @@ optNoPref2.addEventListener("click", function() {
     question2.classList.add("hide");
     question3.classList.remove("hide");
 })
-
+optBudget1.addEventListener("click", function() {
+    question3.classList.add("hide");
+    question4.classList.remove("hide");
+    userPreferences.price = 35000;
+})
+optBudget2.addEventListener("click", function() {
+    question3.classList.add("hide");
+    question4.classList.remove("hide");
+    userPreferences.price = 50000;
+})
+optBudget3.addEventListener("click", function() {
+    question3.classList.add("hide");
+    question4.classList.remove("hide");
+    userPreferences.price = 60000;
+})
+optBudget4.addEventListener("click", function() {
+    question3.classList.add("hide");
+    question4.classList.remove("hide");
+    userPreferences.price = 75000;
+})
+optBudget5.addEventListener("click", function() {
+    question3.classList.add("hide");
+    question4.classList.remove("hide");userPreferences.price = 15000;
+})
 
 
 
