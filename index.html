@@ -17,21 +17,19 @@
 <main class="quiz-container">
     <div class="quiz-intro" id="intro">
         <p>Take our short quiz to discover the perfect Toyota vehicle for your needs.</p>
-        <button class="start-btn" id="startBtn">Start Quiz</button>
+        <button class="start-btn" id="startBtn">Get Started</button>
     </div>
     <div class="quiz-question hide" id="question1">
         <h2>Question 1</h2>
         <p>What type of vehicle are you looking for?</p>
-        <ul>
-            <li><button class="quiz-option" data-answer="sedan">Sedan</button></li>
-            <li><button class="quiz-option" data-answer="suv">SUV</button></li>
-            <li><button class="quiz-option" data-answer="truck">Truck</button></li>
-            <li><button class="quiz-option" data-answer="hybrid">Hybrid</button></li>
-        </ul>
+        <button class="quiz-option" data-answer="Car">Car</button>
+        <button class="quiz-option" data-answer="Minivan">Minivan</button>
+        <button class="quiz-option" data-answer="SUV-Crossover">SUV/Crossover</button>
+        <button class="quiz-option" data-answer="Truck">Truck</button>
+        <button class="quiz-option" data-answer="No-Preference">No Preference</button>
     </div>
-    <div class="quiz-controls hide">
+    <div class="quiz-controls hide" id="controls">
         <button id="prev-btn" class="control-btn" disabled>Previous</button>
-        <button id="next-btn" class="control-btn">Next</button>
     </div>
 </main>
 
