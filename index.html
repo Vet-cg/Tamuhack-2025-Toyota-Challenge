@@ -24,24 +24,93 @@
         <div class="quiz-options-container">
             <div class="question-options">
                 <div class="question-option">
-                    <button class="quiz-button" data-answer="Car">Car</button>
-                    <p> Example: Camry</p>
+                    <button class="quiz-button" id="optCar">Car</button>
+                    <p class="quiz-details">Our smallest vehicles with the best gas mileage</p>
                 </div>
                 <div class="question-option">
-                    <button class="quiz-button" data-answer="Minivan">Minivan</button>
-                    <p> Example: Minivan</p>
+                    <button class="quiz-button" id="optSUV">SUV/Crossover</button>
+                    <p class="quiz-details">Our bigger vehicles with extra storage for all your family needs</p>
                 </div>
                 <div class="question-option">
-                    <button class="quiz-button" data-answer="SUV-Crossover">SUV/Crossover</button>
-                    <p> Example: SUV-Crossover</p>
+                    <button class="quiz-button" id="optTruck">Truck</button>
+                    <p class="quiz-details">Our biggest, strongest vehicles that are ready to help you take on the world</p>
                 </div>
                 <div class="question-option">
-                    <button class="quiz-button" data-answer="Truck">Truck</button>
-                    <p> Example: Truck</p>
+                    <button class="quiz-button" id="optNoPref">No Preference</button>
+                    <p class="quiz-details">We'll give you a range of selections to choose from</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="quiz-question hide" id="question2">
+        <h2>What type of engine do you want?</h2>
+        <div class="quiz-options-container">
+            <div class="question-options">
+                <div class="question-option">
+                    <button class="quiz-button" id="optGas">Standard Gas</button>
+                    <p class="quiz-details">The classic gas engine that everyone has loved for years</p>
                 </div>
                 <div class="question-option">
-                    <button class="quiz-button" data-answer="No-Preference">No Preference</button>
-                    <p> Example: No Preference</p>
+                    <button class="quiz-button" id="optHybrid">Hybrid</button>
+                    <p class="quiz-details">Environmental friendly with phenomenal gas mileage</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optElec">Electric</button>
+                    <p class="quiz-details">Environmentally friendly, quiet, and powerful</p>
+                </div>
+                <div class="No Preference">
+                    <button class="quiz-button" id="optNoPref2">No Preference</button>
+                    <p class="quiz-details">We'll give you a variety of choices</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="quiz-question hide" id="question3">
+        <h2>What's the most you're willing to pay?</h2>
+        <div class="quiz-options-container">
+            <div class="question-options">
+                <div class="question-option">
+                    <button class="quiz-button" id="optBudget1">35,000$</button>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optBudget2">50,000$</button>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optBudget3">60,000$</button>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optBudget4">75,000$</button>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optBudget5">No Limit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="quiz-question hide" id="question4">
+        <h2>What type of do you prefer?</h2>
+        <p>Note: Certain trims are unavailable for different types of vehicles</p>
+        <div class="quiz-options-container">
+            <div class="question-options">
+                <div class="question-option">
+                    <button class="quiz-button" id="optLux">Luxury</button>
+                    <p>For a comfortable vehicle packed with great features</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optSport">Sport</button>
+                    <p>For a powerful vehicle that feels fast</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optBasic">Basic</button>
+                    <p>For that classic feel our vehicles have always had</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optOutdoor">Outdoor</button>
+                    <p>For a vehicle that can take you anywhere</p>
+                </div>
+                <div class="question-option">
+                    <button class="quiz-button" id="optNoPref3">No Preference</button>
+                    <p>We'll give you a range of selections to choose from</p>
                 </div>
             </div>
         </div>
@@ -50,6 +119,9 @@
         <button id="prev-btn" class="control-btn" disabled>Previous</button>
     </div>
 </main>
+<div class="cards-container hide" id="cards-container">
+</div>
+
 
 <footer class="footer">
     <p>Built by Hayden Freeman, Carson Phillips, and Noah Zhou</p>
